@@ -44,6 +44,7 @@ h1 {
 
 .X {
   color: rgb(90, 140, 87);
+  transition: all 0.2s ease-in-out;
 }
 .X:hover {
   color: rgba(255, 255, 255, 1);
@@ -51,6 +52,7 @@ h1 {
 }
 .O {
   color: #16ee28;
+  transition: all 0.2s ease-in-out;
 }
 .O:hover {
   color: rgba(255, 255, 255, 1);
